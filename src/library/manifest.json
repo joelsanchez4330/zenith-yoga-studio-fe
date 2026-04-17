@@ -1,0 +1,62 @@
+[
+    {
+        "id": "hero_01",
+        "type": "hero",
+        "description": "Clean hero section with text on left and image on the right"
+    },
+    {
+        "id": "hero_02",
+        "type": "hero",
+        "description": "Clean hero section with text on right and image on the left"
+    },
+    {
+        "id": "hero_03",
+        "type": "hero",
+        "description": "Clean hero section with text on right and image on the left with slider like gallery"
+    },
+    {
+        "id": "feature_01",
+        "type": "feature",
+        "description": "Feature section with 3 variable explain on horizontally with icon and text"
+    },
+    {
+        "id": "feature_02",
+        "type": "feature",
+        "description": "Feature section explain each feature deeper than other, contain multiple div to explain things with image, text and CTA"
+    },
+    {
+        "id": "feature_03",
+        "type": "feature",
+        "description": "Feature section explain in 4 grid view, good for designer"
+    },
+    {
+        "id": "gallery_01",
+        "type": "gallery",
+        "description": "gallery section show selected works in uneven height and 3 columns"
+    },
+    {
+        "id": "gallery_04",
+        "type": "gallery",
+        "description": "gallery section with touch to expand method"
+    },
+    {
+        "id": "cta_01",
+        "type": "cta",
+        "description": "Clean solid CTA over black background, look modern"
+    },
+    {
+        "id": "cta_02",
+        "type": "cta",
+        "description": "simple looking CTA with white background, contain text, sub title and other user who uses it"
+    },
+    {
+        "id": "footer_01",
+        "type": "footer",
+        "description": "modern footer with black background, contain many link"
+    },
+    {
+        "id": "footer_02",
+        "type": "footer",
+        "description": "simple footer with CTA and social, no other link, in white background"
+    }
+  ]

@@ -1,0 +1,140 @@
+{
+    "theme": {
+      "primaryColor": "#4B6344",
+      "secondaryColor": "#A8C69F",
+      "neutralBg": "#F9FAFB",
+      "textColor": "#111827",
+      "fontFamily": "'Playfair Display', serif",
+      "borderRadius": "24px"
+    },
+    "company": {
+      "name": "Zenith Yoga Studio",
+      "logoUrl": "GH"
+    },
+    "siteConfig": {
+      "hero": {
+        "title": "Find Your Inner Peace with Yoga",
+        "highlightWord": "Peace",
+        "subtitle": "Join us for a journey of mindfulness. New members get a 15% discount on their first trial month!",
+        "cta01Text": "Book Trial Class",
+        "cta02Text": "View Schedule",
+        "imageUrl": "https://images.unsplash.com/photo-1664464683525-29b5d442af54?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "sizes": {
+          "titleFont": "56px",
+          "subtitleFont": "20px",
+          "buttonPadding": "14px 28px",
+          "buttonFontSize": "16px",
+          "imageHeight": "600px",
+          "imageMaxWidth": "100%"
+        }
+      },
+      "features": {
+        "tag": "EXPERIENCE",
+        "topTitle": "Why Zenith?",
+        "mainTitle": "Your Journey to Wellness",
+        "highlightWord": "Wellness",
+        "items": [
+          {
+            "title": "Organic Flow",
+            "desc": "Move with breath in our airy, plant-filled studio space.",
+            "image": "https://example.com/feature1.jpg",
+            "icon": "Leaf",
+            "tag": "Classes"
+          },
+          {
+            "title": "Expert Guidance",
+            "desc": "Our instructors lead with compassion and deep anatomical knowledge.",
+            "image": "https://example.com/feature2.jpg",
+            "icon": "User",
+            "tag": "Instruction",
+            "list": ["Hatha", "Vinyasa", "Yin"]
+          }
+        ]
+      },
+      "gallery": {
+        "tag": "COLLECTION",
+        "title": "Our Sanctuary",
+        "highlight": "Sanctuary",
+        "categories": ["Studio", "Events", "Community"],
+        "items": [
+          {
+            "title": "Main Hall",
+            "category": "Studio",
+            "url": "https://plus.unsplash.com/premium_photo-1661964030420-15481be20d5f?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "aspect": "aspect-square",
+            "overlayColor": "#A8C69F"
+          },
+          {
+            "title": "Sunset Session",
+            "category": "Events",
+            "url": "https://images.unsplash.com/photo-1559209537-dafe2fe2886b?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "aspect": "aspect-video",
+            "overlayColor": "#F8F9F7"
+          },
+          {
+            "title": "Main Hall",
+            "category": "Studio",
+            "url": "https://images.unsplash.com/photo-1656646424651-95b048b70b1b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "aspect": "aspect-square",
+            "overlayColor": "#A8C69F"
+          },
+          {
+            "title": "Sunset Session",
+            "category": "Events",
+            "url": "https://images.unsplash.com/photo-1630659508975-00941de4d982?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "aspect": "aspect-video",
+            "overlayColor": "#F8F9F7"
+          }
+        ]
+      },
+      "cta": {
+        "topTitle": "READY TO BEGIN?",
+        "mainTitle": "Start Your Transformation Today",
+        "highlight": "Transformation",
+        "subtitle": "Claim your 15% new member discount and book your first mat today.",
+        "primaryBtn": "Get Started Now",
+        "secondaryBtn": "Contact Us",
+        "tag": "GET STARTED",
+        "line1": "Begin Your Journey",
+        "line1Highlight": "Journey",
+        "line2": "Find Your Inner Peace",
+        "line2Highlight": "Peace",
+        "buttonText": "Join the Sanctuary",
+        "socials": [
+          { "label": "Instagram", "url": "https://instagram.com/zenith" },
+          { "label": "WhatsApp", "url": "https://wa.me/yournumber" }
+        ]
+      },
+      "footer": {
+        "socials": [
+          { "label": "Instagram", "url": "https://instagram.com/zenithyoga" },
+          { "label": "Facebook", "url": "https://facebook.com/zenithyoga" },
+          { "label": "Twitter", "url": "https://twitter.com/zenithyoga" }
+        ],
+        "companyDesc": "A peaceful sanctuary for organic movement and mindfulness in the heart of the city.",
+        "ghostText": "ZENITH",
+        "columns": [
+          {
+            "title": "Explore",
+            "links": [
+              { "label": "Schedule", "url": "/schedule" },
+              { "label": "Pricing", "url": "/pricing", "italic": true },
+              { "label": "Our Teachers", "url": "/teachers" }
+            ]
+          },
+          {
+            "title": "Support",
+            "links": [
+              { "label": "FAQ", "url": "/faq" },
+              { "label": "Contact", "url": "/contact" }
+            ]
+          }
+        ],
+        "title": "Join the Sanctuary",
+        "highlight": "Sanctuary",
+        "subtitle": "Subscribe to our newsletter for 15% off your first class and weekly mindfulness tips.",
+        "placeholder": "Enter your email address",
+        "buttonText": "Subscribe Now"
+      }
+    }
+  }
